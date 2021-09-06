@@ -27,5 +27,5 @@ not_showAnyAd_above_show_blow_admob_fb_banner: "2",
 "show_ipl_url" : "2",
 "back_all" : "2",
 "Final_Rate_txt":"Please Rate Us Our App",
-"Lottery_Image_Url" :""
+"Lottery_Image_Url" :"https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg"
 }
