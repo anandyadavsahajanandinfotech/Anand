@@ -1,54 +1,78 @@
+ 
 {
 
-"data" :[
-{
-"Date" :"29-08-2021",
-"image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg"
-},
-{
-"Date" :"28-08-2021",
-"image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg"
-},
-{
-"Date" :"27-08-2021",
-"image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg"
-},
-{
-"Date" :"26-08-2021",
-"image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg"
-},
-{
-"Date" :"25-08-2021",
-"image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg"
-},
-{
-"Date" :"24-08-2021",
-"image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg"
-},
-{
-"Date" :"23-08-2021",
-"image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg"
-},
-{
-"Date" :"22-08-2021",
-"image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg"
-},
-{
-"Date" :"21-08-2021",
-"image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg"
-},
-{
-"Date" :"20-08-2021",
-"image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg"
-},
-{
-"Date" :"19-08-2021",
-"image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg"
-},
-{
-"Date" :"18-08-2021",
-"image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg"
-}
+        "data" :[
+        {
+        "Date" :"29-08-2021",
+        "M_image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg",
+        "D_image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg",
+        "N_image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg"
+        },
+        {
+        "Date" :"28-08-2021",
+        "M_image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg",
+        "D_image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg",
+        "N_image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg"
+        },
+        {
+        "Date" :"27-08-2021",
+        "M_image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg",
+        "D_image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg",
+        },
+        {
+        "Date" :"26-08-2021",
+        "M_image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg",
+        "D_image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg",
+        "N_image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg"
+        },
+        {
+        "Date" :"25-08-2021",
+        "M_image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg",
+        "D_image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg",
+        "N_image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg"
+        },
+        {
+        "Date" :"24-08-2021",
+        "M_image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg",
+        "D_image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg",
+        "N_image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg"
+        },
+        {
+        "Date" :"23-08-2021",
+        "M_image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg",
+        "D_image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg",
+        "N_image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg"
+        },
+        {
+        "Date" :"22-08-2021",
+        "M_image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg",
+        "D_image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg",
+        "N_image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg"
+        },
+        {
+        "Date" :"21-08-2021",
+        "M_image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg",
+        "D_image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg",
+        "N_image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg"
+        },
+        {
+        "Date" :"20-08-2021",
+        "M_image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg",
+        "D_image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg",
+        "N_image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg"
+        },
+        {
+        "Date" :"19-08-2021",
+        "M_image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg",
+        "D_image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg",
+        "N_image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg"
+        },
+        {
+        "Date" :"18-08-2021",
+        "M_image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg",
+        "D_image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg",
+        "N_image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg"
+        }
 
-]
-}
+        ]
+        }
