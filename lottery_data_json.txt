@@ -1,7 +1,5 @@
- 
-{
-
-        "data" :[
+ {
+  "data" :[
         {
         "Date" :"29-08-2021",
         "M_image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg",
@@ -73,6 +71,5 @@
         "D_image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg",
         "N_image" : "https://anandyadavsahajanandinfotech.github.io/Qurek_Games_Image/image_1.jpg"
         }
-
         ]
         }
