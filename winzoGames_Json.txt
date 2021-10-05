@@ -1,102 +1,102 @@
-{
+ {
   "status_code": "200",
   "status_message": "success",
   "data": [
     {
       "id": "1",
       "game_name": "Uncle Ahmed",
-      "game_link": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/UncleAhmedTeaser.jpg",
-      "game_image": "https://games.cdn.famobi.com/html5games/u/uncle-ahmed/v010/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=7c74de77-0a68-43e4-83ee-e35193fe0c13&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=544&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/UncleAhmedTeaser.jpg",
+      "game_link": "https://games.cdn.famobi.com/html5games/u/uncle-ahmed/v010/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=7c74de77-0a68-43e4-83ee-e35193fe0c13&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=544&original_ref=https%3A%2F%2Fhtml5games.com%2F"
     },
 	{
       "id": "1",
       "game_name": "DICES 2048 3D",
-      "game_link": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/Dices20483dTeaser.jpg",
-      "game_image": "https://games.cdn.famobi.com/html5games/d/dices-2048-3d/v010/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=23863c88-0a33-4bbc-bf3a-a7d9094c8c90&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=545&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/Dices20483dTeaser.jpg",
+      "game_link": "https://games.cdn.famobi.com/html5games/d/dices-2048-3d/v010/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=23863c88-0a33-4bbc-bf3a-a7d9094c8c90&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=545&original_ref=https%3A%2F%2Fhtml5games.com%2F"
     },
 	{
       "id": "1",
       "game_name": "FRANKENSTEIN GO",
-      "game_link": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/FrankensteinGoTeaser.jpg",
-      "game_image": "https://games.cdn.famobi.com/html5games/f/frankenstein-go/v010/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=6cdf4891-4482-4d64-818a-c40a6e37b4cc&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=547&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/FrankensteinGoTeaser.jpg",
+      "game_link": "https://games.cdn.famobi.com/html5games/f/frankenstein-go/v010/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=6cdf4891-4482-4d64-818a-c40a6e37b4cc&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=547&original_ref=https%3A%2F%2Fhtml5games.com%2F"
     },
 	{
       "id": "1",
       "game_name": "OM NOM CONNECT CLASSIC",
-      "game_link": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/OmNomConnectClassicTeaser.jpg",
-      "game_image": "https://games.cdn.famobi.com/html5games/o/om-nom-connect-classic/v030/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=23313c23-ab8d-4429-b2fa-cd9707c38e99&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=548&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/OmNomConnectClassicTeaser.jpg",
+      "game_link": "https://games.cdn.famobi.com/html5games/o/om-nom-connect-classic/v030/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=23313c23-ab8d-4429-b2fa-cd9707c38e99&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=548&original_ref=https%3A%2F%2Fhtml5games.com%2F"
     },
 	{
       "id": "1",
       "game_name": "OM NOM BUBBLES",
-      "game_link": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/OmNomBubblesTeaser.jpg",
-      "game_image": "https://games.cdn.famobi.com/html5games/o/om-nom-bubbles/v020/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=04a8baa6-e3ad-43e7-8b35-b274552d5890&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=548&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/OmNomBubblesTeaser.jpg",
+      "game_link": "https://games.cdn.famobi.com/html5games/o/om-nom-bubbles/v020/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=04a8baa6-e3ad-43e7-8b35-b274552d5890&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=548&original_ref=https%3A%2F%2Fhtml5games.com%2F"
     },
 	{
       "id": "1",
       "game_name": "POP IT! 3D",
-      "game_link": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/PopIt3dTeaser.jpg",
-      "game_image": "https://games.cdn.famobi.com/html5games/p/pop-it-3d/v050/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=021206dd-fbc0-443a-ad46-815955968f85&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=549&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/PopIt3dTeaser.jpg",
+      "game_link": "https://games.cdn.famobi.com/html5games/p/pop-it-3d/v050/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=021206dd-fbc0-443a-ad46-815955968f85&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=549&original_ref=https%3A%2F%2Fhtml5games.com%2F"
     },
 	{
       "id": "1",
       "game_name": "TRAFFIC TOM",
-      "game_link": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/TrafficTomTeaser.jpg",
-      "game_image": "https://games.cdn.famobi.com/html5games/t/traffic-tom/v010/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=8bf9689b-ca21-4291-af6a-f85c6bcf92f7&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=549&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/TrafficTomTeaser.jpg",
+      "game_link": "https://games.cdn.famobi.com/html5games/t/traffic-tom/v010/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=8bf9689b-ca21-4291-af6a-f85c6bcf92f7&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=549&original_ref=https%3A%2F%2Fhtml5games.com%2F"
     },
 	{
       "id": "1",
       "game_name": "ONET GALLERY 3D",
-      "game_link": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/OnetGallery3dTeaser.jpg",
-      "game_image": "https://games.cdn.famobi.com/html5games/o/onet-gallery-3d/v040/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=fb7bbd78-93dd-4180-85ae-ddf09e3ed36b&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=549&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/OnetGallery3dTeaser.jpg",
+      "game_link": "https://games.cdn.famobi.com/html5games/o/onet-gallery-3d/v040/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=fb7bbd78-93dd-4180-85ae-ddf09e3ed36b&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=549&original_ref=https%3A%2F%2Fhtml5games.com%2F"
     },
 	{
       "id": "1",
       "game_name": "OM NOM RUN",
-      "game_link": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/OmNomRunTeaser.jpg",
-      "game_image": "https://games.cdn.famobi.com/html5games/o/om-nom-run/v1140/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=abe80572-560a-444d-baf7-2fa4a7b2c02f&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=549&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/OmNomRunTeaser.jpg",
+      "game_link": "https://games.cdn.famobi.com/html5games/o/om-nom-run/v1140/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=abe80572-560a-444d-baf7-2fa4a7b2c02f&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=549&original_ref=https%3A%2F%2Fhtml5games.com%2F"
     },
 	{
       "id": "1",
       "game_name": "EURO PENALTY CUP 2021",
-      "game_link": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/EuroPenaltyCup2021Teaser.jpg",
-      "game_image": "https://games.cdn.famobi.com/html5games/e/euro-penalty-cup-2021/v010/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=a7f90ecc-d700-4e69-9a6e-3135f26868f7&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=550&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/EuroPenaltyCup2021Teaser.jpg",
+      "game_link": "https://games.cdn.famobi.com/html5games/e/euro-penalty-cup-2021/v010/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=a7f90ecc-d700-4e69-9a6e-3135f26868f7&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=550&original_ref=https%3A%2F%2Fhtml5games.com%2F"
     },
 	{
       "id": "1",
       "game_name": "TRAIN 2048",
-      "game_link": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/Train2048Teaser.jpg",
-      "game_image": "https://games.cdn.famobi.com/html5games/t/train-2048/v150/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=abf56d7c-b1c7-493b-b2ac-aecb45d00ef8&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=551&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/Train2048Teaser.jpg",
+      "game_link": "https://games.cdn.famobi.com/html5games/t/train-2048/v150/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=abf56d7c-b1c7-493b-b2ac-aecb45d00ef8&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=551&original_ref=https%3A%2F%2Fhtml5games.com%2F"
     },
 	{
       "id": "1",
       "game_name": "GIANT 2048",
-      "game_link": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/Giant2048Teaser.jpg",
-      "game_image": "https://games.cdn.famobi.com/html5games/g/giant-2048/v100/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=c2165815-114b-4af8-ac24-34eabc502c58&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=551&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/Giant2048Teaser.jpg",
+      "game_link": "https://games.cdn.famobi.com/html5games/g/giant-2048/v100/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=c2165815-114b-4af8-ac24-34eabc502c58&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=551&original_ref=https%3A%2F%2Fhtml5games.com%2F"
     },
 	{
       "id": "1",
       "game_name": "FUZZIES",
-      "game_link": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/FuzziesTeaser.jpg",
-      "game_image": "https://games.cdn.famobi.com/html5games/f/fuzzies/v130/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=664712c7-d01a-494a-bddf-4ea78f48e5bb&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=552&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/FuzziesTeaser.jpg",
+      "game_link": "https://games.cdn.famobi.com/html5games/f/fuzzies/v130/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=664712c7-d01a-494a-bddf-4ea78f48e5bb&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=552&original_ref=https%3A%2F%2Fhtml5games.com%2F"
     },
 	{
       "id": "1",
       "game_name": "GARDEN BLOOM",
-      "game_link": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/GardenBloomTeaser.jpg",
-      "game_image": "https://games.cdn.famobi.com/html5games/g/garden-bloom/v360/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=3f504f07-d674-4a4d-a02e-89e7414d8f26&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=553&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/GardenBloomTeaser.jpg",
+      "game_link": "https://games.cdn.famobi.com/html5games/g/garden-bloom/v360/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=3f504f07-d674-4a4d-a02e-89e7414d8f26&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=553&original_ref=https%3A%2F%2Fhtml5games.com%2F"
     },
 	{
       "id": "1",
       "game_name": "BRAIN TRAINER",
-      "game_link": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/BrainTrainerTeaser.jpg",
-      "game_image": "https://games.cdn.famobi.com/html5games/b/brain-trainer/v430/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=d267b353-ff18-4745-89f6-c390716a4f25&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=554&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/BrainTrainerTeaser.jpg",
+      "game_link": "https://games.cdn.famobi.com/html5games/b/brain-trainer/v430/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=d267b353-ff18-4745-89f6-c390716a4f25&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=554&original_ref=https%3A%2F%2Fhtml5games.com%2F"
     },
 	{
       "id": "1",
       "game_name": "GARDEN MATCH 3D",
-      "game_link": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/GardenMatch3dTeaser.jpg",
-      "game_image": "https://games.cdn.famobi.com/html5games/g/garden-match-3d/v090/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=19aabdea-15df-4a5f-a7d2-df389b572ecb&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=554&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/GardenMatch3dTeaser.jpg",
+      "game_link": "https://games.cdn.famobi.com/html5games/g/garden-match-3d/v090/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=19aabdea-15df-4a5f-a7d2-df389b572ecb&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=554&original_ref=https%3A%2F%2Fhtml5games.com%2F"
     } 
 	]
 	}
