@@ -21,7 +21,7 @@
       "game_name": "Cards",
       "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/category 3.png",
       "Category_link": "https://jolly-wozniak-864293.netlify.app/winzoGames_Json.txt",
-	  "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_3.png"
+	  "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_8.png"
     },
     {
       "id": "4",
