@@ -7,70 +7,70 @@
       "game_name": "Racing",
       "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/category 1.png",
       "Category_link": "https://jolly-wozniak-864293.netlify.app/winzoGames_Json.txt",
-	  "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_13.png"
+	  "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_3.png"
     },
     {
       "id": "2",
       "game_name": "Girls",
       "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/category 2.png",
       "Category_link": "https://jolly-wozniak-864293.netlify.app/winzoGames_Json.txt",
-	  "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_13.png"
+	  "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_4.png"
     },
     {
       "id": "3",
       "game_name": "Cards",
       "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/category 3.png",
       "Category_link": "https://jolly-wozniak-864293.netlify.app/winzoGames_Json.txt",
-	  "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_13.png"
+	  "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_5.png"
     },
     {
       "id": "4",
       "game_name": "Sports",
       "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/category 4.png",
       "Category_link": "https://jolly-wozniak-864293.netlify.app/winzoGames_Json.txt",
-	  "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_13.png"
+	  "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_6.png"
     },
     {
       "id": "5",
       "game_name": "Arcade",
       "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/category 5.png",
       "Category_link": "https://jolly-wozniak-864293.netlify.app/winzoGames_Json.txt",
-	  "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_13.png"
+	  "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_7.png"
     },
     {
       "id": "6",
       "game_name": "Quiz",
       "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/category 6.png",
       "Category_link": "https://jolly-wozniak-864293.netlify.app/winzoGames_Json.txt",
-	  "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_13.png"
+	  "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_8.png"
     },
     {
       "id": "7",
       "game_name": "Puzzle",
       "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/category 7.png",
       "Category_link": "https://jolly-wozniak-864293.netlify.app/winzoGames_Json.txt",
-	  "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_13.png"
+	  "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_9.png"
     },
     {
       "id": "8",
       "game_name": "Shutter",
       "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/category 8.png",
       "Category_link": "https://jolly-wozniak-864293.netlify.app/winzoGames_Json.txt",
-	  "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_13.png"
+	  "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_10.png"
     },
     {
       "id": "9",
       "game_name": "Jump & Run",
       "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/category 9.png",
       "Category_link": "https://jolly-wozniak-864293.netlify.app/winzoGames_Json.txt",
-	  "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_13.png"
+	  "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_11.png"
     },
     {
       "id": "10",
       "game_name": "Best",
       "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/category 10.png",
       "Category_link": "https://jolly-wozniak-864293.netlify.app/winzoGames_Json.txt",
-	  "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_13.png"
+	  "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_12.png"
     },
     {
       "id": "11",
