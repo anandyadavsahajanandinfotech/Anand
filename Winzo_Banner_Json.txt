@@ -5,35 +5,35 @@
     {
       "id": "1",
       "game_name": "Racing",
-      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/category 1.png",
+      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/banner1.jpeg",
       "Category_link": "https://jolly-wozniak-864293.netlify.app/winzoGames_Json.txt",
 	  "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_14.png"
     },
     {
       "id": "2",
       "game_name": "Girls",
-      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/category 2.png",
+      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/banner1.jpeg",
       "Category_link": "https://jolly-wozniak-864293.netlify.app/winzoGames_Json.txt",
 	  "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_15.png"
     },
     {
       "id": "3",
       "game_name": "Cards",
-      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/category 3.png",
+      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/banner1.jpeg",
       "Category_link": "https://jolly-wozniak-864293.netlify.app/winzoGames_Json.txt",
 	  "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_8.png"
     },
     {
       "id": "4",
       "game_name": "Sports",
-      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/category 4.png",
+      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/banner1.jpeg",
       "Category_link": "https://jolly-wozniak-864293.netlify.app/winzoGames_Json.txt",
 	  "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_6.png"
     },
     {
       "id": "5",
       "game_name": "Arcade",
-      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/category 5.png",
+      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/banner1.jpeg",
       "Category_link": "https://jolly-wozniak-864293.netlify.app/winzoGames_Json.txt",
 	  "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_7.png"
     },
