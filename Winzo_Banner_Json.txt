@@ -37,6 +37,6 @@ id: "5",
 game_name: "High Hills",
 game_image: "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/banner1.jpeg",
 game_link: "https://games.cdn.famobi.com/html5games/h/high-hills/v130/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=2a35d037-696c-4351-9e34-7260392f9404&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=451&original_ref=https%3A%2F%2Fhtml5games.com%2F",
-},
-],
+}
+]
 }
