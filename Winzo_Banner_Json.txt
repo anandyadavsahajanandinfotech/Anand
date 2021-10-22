@@ -1,83 +1,42 @@
 {
-  "status_code": "200",
-  "status_message": "success",
-  "data": [
-    {
-      "id": "1",
-      "game_name": "Racing",
-      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/banner1.jpeg",
-      "Category_link": "https://jolly-wozniak-864293.netlify.app/winzoGames_Json.txt",
-	  "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_14.png"
-    },
-    {
-      "id": "2",
-      "game_name": "Girls",
-      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/banner1.jpeg",
-      "Category_link": "https://jolly-wozniak-864293.netlify.app/winzoGames_Json.txt",
-	  "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_15.png"
-    },
-    {
-      "id": "3",
-      "game_name": "Cards",
-      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/banner1.jpeg",
-      "Category_link": "https://jolly-wozniak-864293.netlify.app/winzoGames_Json.txt",
-	  "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_8.png"
-    },
-    {
-      "id": "4",
-      "game_name": "Sports",
-      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/banner1.jpeg",
-      "Category_link": "https://jolly-wozniak-864293.netlify.app/winzoGames_Json.txt",
-	  "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_6.png"
-    },
-    {
-      "id": "5",
-      "game_name": "Arcade",
-      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/banner1.jpeg",
-      "Category_link": "https://jolly-wozniak-864293.netlify.app/winzoGames_Json.txt",
-	  "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_7.png"
-    },
-    {
-      "id": "6",
-      "game_name": "Quiz",
-      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/banner1.jpeg",
-      "Category_link": "https://jolly-wozniak-864293.netlify.app/winzoGames_Json.txt",
-	  "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_8.png"
-    },
-    {
-      "id": "7",
-      "game_name": "Puzzle",
-      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/banner1.jpeg",
-      "Category_link": "https://jolly-wozniak-864293.netlify.app/winzoGames_Json.txt",
-	  "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_9.png"
-    },
-    {
-      "id": "8",
-      "game_name": "Shutter",
-      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/banner1.jpeg",
-      "Category_link": "https://jolly-wozniak-864293.netlify.app/winzoGames_Json.txt",
-	  "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_10.png"
-    },
-    {
-      "id": "9",
-      "game_name": "Jump & Run",
-      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/banner1.jpeg",
-      "Category_link": "https://jolly-wozniak-864293.netlify.app/winzoGames_Json.txt",
-	  "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_11.png"
-    },
-    {
-      "id": "10",
-      "game_name": "Best",
-      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/banner1.jpeg",
-      "Category_link": "https://jolly-wozniak-864293.netlify.app/winzoGames_Json.txt",
-	  "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_12.png"
-    },
-    {
-      "id": "11",
-      "game_name": "New",
-      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/banner1.jpeg",
-      "Category_link": "https://jolly-wozniak-864293.netlify.app/winzoGames_Json.txt",
-	  "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_13.png"
-    }
-  ]
+status_code: "200",
+status_message: "success",
+data: [
+{
+id: "1",
+game_name: "Traffic Tom",
+game_image: "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/banner1.jpeg",
+game_link: "https://games.cdn.famobi.com/html5games/t/traffic-tom/v010/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=8bf9689b-ca21-4291-af6a-f85c6bcf92f7&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=442&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+},
+{
+id: "1",
+game_name: "Moto X3M Pool Party",
+game_image: "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/banner1.jpeg",
+game_link: "https://games.cdn.famobi.com/html5games/m/moto-x3m-pool-party/v080/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=b2102250-eb51-4704-9cab-ff296491cc68&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=440&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+},
+{
+id: "1",
+game_name: "Adventure Drivers",
+game_image: "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/banner1.jpeg",
+game_link: "https://games.cdn.famobi.com/html5games/a/adventure-drivers/v060/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=7adef9f1-9ddd-437a-b5ee-196da61ba5c7&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=445&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+},
+{
+id: "1",
+game_name: "Adventure Drivers",
+game_image: "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/banner1.jpeg",
+game_link: "https://games.cdn.famobi.com/html5games/a/adventure-drivers/v060/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=7adef9f1-9ddd-437a-b5ee-196da61ba5c7&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=445&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+},
+{
+id: "4",
+game_name: "Moto X3M",
+game_image: "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/banner1.jpeg",
+game_link: "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=448&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+},
+{
+id: "5",
+game_name: "High Hills",
+game_image: "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/banner1.jpeg",
+game_link: "https://games.cdn.famobi.com/html5games/h/high-hills/v130/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=2a35d037-696c-4351-9e34-7260392f9404&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=451&original_ref=https%3A%2F%2Fhtml5games.com%2F",
+},
+],
 }
