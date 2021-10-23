@@ -55,7 +55,7 @@
       "id": "8",
       "game_name": "Bubble Shooter",
       "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/category 8.png",
-      "Category_link": "https://jolly-wozniak-864293.netlify.app/RacingCategoryWinzo.json",
+      "Category_link": "https://jolly-wozniak-864293.netlify.app/BubbleShooterCategoryWinzo.json",
 	  "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_10.png"
     },
     {
