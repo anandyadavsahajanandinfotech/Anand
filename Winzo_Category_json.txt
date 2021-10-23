@@ -27,7 +27,7 @@
       "id": "4",
       "game_name": "Sports",
       "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/category 4.png",
-      "Category_link": "https://jolly-wozniak-864293.netlify.app/RacingCategoryWinzo.json",
+      "Category_link": "https://jolly-wozniak-864293.netlify.app/SportsCategoryWinzo.json",
 	  "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_6.png"
     },
     {
