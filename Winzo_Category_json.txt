@@ -13,7 +13,7 @@
       "id": "2",
       "game_name": "Girls",
       "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/category 2.png",
-      "Category_link": "https://jolly-wozniak-864293.netlify.app/RacingCategoryWinzo.json",
+      "Category_link": "https://jolly-wozniak-864293.netlify.app/GirlsCategoryWinzo.json",
 	  "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_15.png"
     },
     {
