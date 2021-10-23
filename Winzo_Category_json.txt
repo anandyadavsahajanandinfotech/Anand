@@ -34,7 +34,7 @@
       "id": "5",
       "game_name": "Arcade",
       "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/category 5.png",
-      "Category_link": "https://jolly-wozniak-864293.netlify.app/winzoGames_Json.txt",
+      "Category_link": "https://jolly-wozniak-864293.netlify.app/ArcadeCategoryWinzo.json",
 	  "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_7.png"
     },
     {
