@@ -4,7 +4,7 @@
   "data": [
     {
       "qureka": "0",
-      "id": "1",
+      "id": "0",
       "game_name": "Om Nom Run",
       "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/om-nom-run-ios-android-featured.jpeg",
       "game_link": "https://games.cdn.famobi.com/html5games/o/om-nom-run/v1140/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=abe80572-560a-444d-baf7-2fa4a7b2c02f&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=255&original_ref=https%3A%2F%2Fhtml5games.com%2F"
@@ -12,37 +12,37 @@
     {
       "qureka": "0",
       "id": "1",
-      "game_name": "Moto X3M Pool Party",
+      "game_name": "Stair Race 3D",
       "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/run3d.png",
-      "game_link": "https://games.cdn.famobi.com/html5games/m/moto-x3m-pool-party/v080/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=b2102250-eb51-4704-9cab-ff296491cc68&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=440&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+      "game_link": "https://games.cdn.famobi.com/html5games/s/stair-race-3d/v030/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=5b50bf65-b7c1-4f18-b149-d4e3bb0e78d3&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=271&original_ref=https%3A%2F%2Fhtml5games.com%2F"
     },
     {
       "qureka": "0",
-      "id": "1",
-      "game_name": "Adventure Drivers",
-      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/banner1.jpeg",
+      "id": "2",
+      "game_name": "Bus Parking 3D",
+      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/bus3dparking.png",
       "game_link": "https://games.cdn.famobi.com/html5games/a/adventure-drivers/v060/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=7adef9f1-9ddd-437a-b5ee-196da61ba5c7&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=445&original_ref=https%3A%2F%2Fhtml5games.com%2F"
     },
     {
       "qureka": "0",
       "id": "1",
       "game_name": "Adventure Drivers",
-      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/banner1.jpeg",
-      "game_link": "https://games.cdn.famobi.com/html5games/a/adventure-drivers/v060/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=7adef9f1-9ddd-437a-b5ee-196da61ba5c7&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=445&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/adventuredrivers.png",
+      "game_link": "https://games.cdn.famobi.com/html5games/a/adventure-drivers/v060/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=7adef9f1-9ddd-437a-b5ee-196da61ba5c7&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=271&original_ref=https%3A%2F%2Fhtml5games.com%2F"
     },
     {
       "qureka": "0",
       "id": "4",
-      "game_name": "Moto X3M",
-      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/banner1.jpeg",
-      "game_link": "https://games.cdn.famobi.com/html5games/m/moto-x3m/v100/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=442157bb-0a48-4e9b-9fa6-e1503f16e8e3&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=448&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+      "game_name": "Traffic Rider",
+      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/rider.jpeg",
+      "game_link": "https://games.cdn.famobi.com/html5games/m/moto-x3m-pool-party/v080/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=b2102250-eb51-4704-9cab-ff296491cc68&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=295&original_ref=https%3A%2F%2Fhtml5games.com%2F"
     },
     {
       "qureka": "0",
       "id": "5",
-      "game_name": "High Hills",
-      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/banner1.jpeg",
-      "game_link": "https://games.cdn.famobi.com/html5games/h/high-hills/v130/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=2a35d037-696c-4351-9e34-7260392f9404&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=451&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+      "game_name": "Subway Surfers",
+      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/subway.png",
+      "game_link": "https://poki.com/en/g/subway-surfers#"
     }
   ]
 }
