@@ -3,7 +3,6 @@
         status_message: "success",
         data: [
         {
-        qureka : "1",
         id: "1",
         game_name: "Traffic Tom",
         game_image: "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/TrafficTomTeaser.jpg",
