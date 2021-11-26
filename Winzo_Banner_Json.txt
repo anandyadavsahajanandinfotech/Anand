@@ -14,7 +14,7 @@
         "id": "0",
         "game_name": "Snack Game",
         "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/snackgame.png",
-        "game_link": "https://www.crazygames.com/game/gulper-io"
+        "game_link": "https://gulper.io/"
       },
     {
       "qureka": "0",
