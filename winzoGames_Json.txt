@@ -1,4 +1,4 @@
-{
+ {
         "status_code": "200",
         "status_message": "success",
         "data": [
@@ -15,6 +15,13 @@
         "game_name": "Moto X3M Pool Party",
         "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/MotoX3mPoolPartyTeaser.jpg",
         "game_link": "https://games.cdn.famobi.com/html5games/m/moto-x3m-pool-party/v080/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=b2102250-eb51-4704-9cab-ff296491cc68&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=440&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+        },
+        {
+        "qureka" : "1",
+        "id": "100",
+        "game_name": "Tech Skill",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Anand/1.png",
+        "game_link": ""
         },
         {
         "qureka" : "0",
@@ -44,6 +51,13 @@
         "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/DragRacingClubTeaser.jpg",
         "game_link": "https://games.cdn.famobi.com/html5games/d/drag-racing-club/v060/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=7903c763-4f6b-48fb-8396-3a18daae70c7&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=316&original_ref=https%3A%2F%2Fhtml5games.com%2F"
         },
+		{
+        "qureka" : "1",
+        "id": "100",
+        "game_name": "Mega Quiz",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Anand/2.jpg",
+        "game_link": ""
+        },
         {
         "qureka" : "0",
         "id": "7",
@@ -64,6 +78,13 @@
         "game_name": "Highway Rider Extreme",
         "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/HighwayRiderExtremeTeaser.jpg",
         "game_link": "https://games.cdn.famobi.com/html5games/h/highway-rider-extreme/v060/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=83175bfa-1c89-46d9-91da-7ea5fc7a642f&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=320&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+        },
+		{
+        "qureka" : "1",
+        "id": "100",
+        "game_name": "Tech Skills",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Anand/3.jpg",
+        "game_link": ""
         },
         {
         "qureka" : "0",
@@ -86,6 +107,13 @@
         "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/RacingMonsterTrucksTeaser.jpg",
         "game_link": "https://games.cdn.famobi.com/html5games/r/racing-monster-trucks/v270/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=2eec72ea-c033-4368-a972-8e94d25ce407&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=320&original_ref=https%3A%2F%2Fhtml5games.com%2F"
         },
+		{
+        "qureka" : "1",
+        "id": "100",
+        "game_name": "Tech Skill",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Anand/4.jpg",
+        "game_link": ""
+        },
         {
         "qureka" : "0",
         "id": "13",
@@ -106,6 +134,13 @@
         "game_name": "Thug Racer",
         "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/ThugRacerTeaser.jpg",
         "game_link": "https://games.cdn.famobi.com/html5games/t/thug-racer/v330/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=c3a9bc6a-f9cf-4bcd-bd12-b1c5fcb4dc5d&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=323&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+        },
+		{
+        "qureka" : "1",
+        "id": "100",
+        "game_name": "Mega Quiz",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Anand/5.png",
+        "game_link": ""
         },
         {
         "qureka" : "0",
@@ -128,6 +163,13 @@
         "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/StreetPursuit_Teaser.jpg",
         "game_link": "https://games.cdn.famobi.com/html5games/s/street-pursuit/7-8cd52b/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=aad22a94-8032-4cf9-8232-50f8a12d599c&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=323&original_ref=https%3A%2F%2Fhtml5games.com%2F"
         },
+		{
+        "qureka" : "1",
+        "id": "100",
+        "game_name": "GK Quiz",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Anand/6.png",
+        "game_link": ""
+        },
         {
         "qureka" : "0",
         "id": "19",
@@ -149,6 +191,13 @@
         "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/DontCrashTeaser.jpg",
         "game_link": "https://games.cdn.famobi.com/html5games/d/dont-crash/v030/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=9320bd31-c1fa-4dda-9a89-6e3946399a84&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=327&original_ref=https%3A%2F%2Fhtml5games.com%2F"
         },
+		{
+        "qureka" : "1",
+        "id": "100",
+        "game_name": "Play Quiz",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Anand/7.png",
+        "game_link": ""
+        },
         {
         "qureka" : "0",
         "id": "22",
@@ -169,6 +218,13 @@
         "game_name": "Burnin Rubber",
         "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/BurninRubber_Teaser.jpg",
         "game_link": "https://games.cdn.famobi.com/html5games/b/burnin-rubber/v140/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=d55c9a5f-59ef-44c9-9fd9-b8b60cdb6b92&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=327&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+        },
+		{
+        "qureka" : "1",
+        "id": "100",
+        "game_name": "IPL Quiz",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Anand/8.png",
+        "game_link": ""
         },
         {
         "qureka" : "0",
