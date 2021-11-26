@@ -17,13 +17,6 @@
         "game_link": "https://powerline.io/"
       },
     {
-        "qureka": "0",
-        "id": "0",
-        "game_name": "Tacticscore",
-        "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/Tacticscore.png",
-        "game_link": "https://tacticscore.io/"
-      },
-    {
       "qureka": "0",
       "id": "0",
       "game_name": "Om Nom Run",
