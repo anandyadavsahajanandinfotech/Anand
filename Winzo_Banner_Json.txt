@@ -27,7 +27,7 @@
       "qureka": "0",
       "id": "0",
       "game_name": "Speed Car",
-      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/speed car.jpg",
+      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/speed_car.jpg",
       "game_link": "https://gamesworld.atmegame.com/games/speed-racer/"
     },
     {
