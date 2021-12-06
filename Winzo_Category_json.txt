@@ -8,7 +8,7 @@
         "game_name": "Racing",
         "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/category 1.png",
         "Category_link": "https://jolly-wozniak-864293.netlify.app/RacingCategoryWinzo.json",
-        "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_14.png"
+        "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/arcade.png"
         },
         {
         "qureka" : "0",
@@ -16,7 +16,7 @@
         "game_name": "Girls",
         "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/category 2.png",
         "Category_link": "https://jolly-wozniak-864293.netlify.app/GirlsCategoryWinzo.json",
-        "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_15.png"
+        "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/best.png"
         },
         {
         "qureka" : "0",
@@ -24,7 +24,7 @@
         "game_name": "Cards",
         "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/category 3.png",
         "Category_link": "https://jolly-wozniak-864293.netlify.app/CardsCategoryWinzo.json",
-        "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_8.png"
+        "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/bubbleshooter.png"
         },
         {
         "qureka" : "0",
@@ -32,7 +32,7 @@
         "game_name": "Sports",
         "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/category 4.png",
         "Category_link": "https://jolly-wozniak-864293.netlify.app/SportsCategoryWinzo.json",
-        "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_6.png"
+        "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/card.png"
         },
         {
         "qureka" : "0",
@@ -40,7 +40,7 @@
         "game_name": "Arcade",
         "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/category 5.png",
         "Category_link": "https://jolly-wozniak-864293.netlify.app/ArcadeCategoryWinzo.json",
-        "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_7.png"
+        "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/girls.png"
         },
         {
         "qureka" : "0",
@@ -48,7 +48,7 @@
         "game_name": "Quiz",
         "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/category 6.png",
         "Category_link": "https://jolly-wozniak-864293.netlify.app/QuizCategoryWinzo.json",
-        "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_8.png"
+        "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/jump_run.png"
         },
         {
         "qureka" : "0",
@@ -56,7 +56,7 @@
         "game_name": "Puzzle",
         "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/category 7.png",
         "Category_link": "https://jolly-wozniak-864293.netlify.app/PuzzleCategoryWinzo.json",
-        "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_9.png"
+        "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/popular.png"
         },
         {
         "qureka" : "0",
@@ -64,7 +64,7 @@
         "game_name": "Bubble Shooter",
         "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/category 8.png",
         "Category_link": "https://jolly-wozniak-864293.netlify.app/BubbleShooterCategoryWinzo.json",
-        "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_10.png"
+        "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/puzzle.png"
         },
         {
         "qureka" : "0",
@@ -72,7 +72,7 @@
         "game_name": "Jump & Run",
         "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/category 9.png",
         "Category_link": "https://jolly-wozniak-864293.netlify.app/RacingCategoryWinzo.json",
-        "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_11.png"
+        "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/quiz.png"
         },
         {
         "qureka" : "0",
@@ -88,7 +88,16 @@
         "game_name": "New",
         "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/category 11.png",
         "Category_link": "https://jolly-wozniak-864293.netlify.app/RacingCategoryWinzo.json",
-        "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/btn_13.png"
+        "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/racing.png"
+        },
+        {
+        "qureka" : "0",
+        "id":"11",
+        "game_name": "New",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/category 11.png",
+        "Category_link": "https://jolly-wozniak-864293.netlify.app/RacingCategoryWinzo.json",
+        "btn_image" : "https://anandyadavsahajanandinfotech.github.io/Winzo_category_Image/sports.png"
+        
         }
         ]
         }
