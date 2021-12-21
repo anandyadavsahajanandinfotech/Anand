@@ -50,7 +50,7 @@
       "id": "2",
       "game_name": "Play and Win",
       "game_image": "https://anandyadavsahajanandinfotech.github.io/querkaImages/900x506.jpg",
-      "game_link": "https://893.win.qureka.com"
+      "game_link": "test"
     },
     {
       "qureka": "0",
