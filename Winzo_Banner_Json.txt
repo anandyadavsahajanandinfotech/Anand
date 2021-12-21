@@ -46,7 +46,7 @@
       "game_link": "https://games.cdn.famobi.com/html5games/a/adventure-drivers/v060/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=7adef9f1-9ddd-437a-b5ee-196da61ba5c7&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=445&original_ref=https%3A%2F%2Fhtml5games.com%2F"
     },
      {
-      "qureka": "1",
+      "qureka": "0",
       "id": "2",
       "game_name": "Play and Win",
       "game_image": "https://anandyadavsahajanandinfotech.github.io/querkaImages/900x506.jpg",
