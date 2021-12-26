@@ -13,7 +13,7 @@
         "qureka": "0",
         "id": "0",
         "game_name": "Snack Game",
-        "game_image": "",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/snackgame.png",
         "game_link": "https://gulper.io/"
       },
     {
