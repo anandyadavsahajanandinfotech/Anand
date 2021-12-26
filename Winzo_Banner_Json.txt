@@ -7,7 +7,7 @@
         "id": "0",
         "game_name": "Join Clash 3D",
         "game_image": "https://lh3.googleusercontent.com/proxy/fCNf8loiRos4hBu8GVXDLeEnxDurY27TE5ueYbcq6H7q5-zbP2UETs_-e0E_a-LZV8PbEdgxwRPAIaQ2fdbtyKcJ5yZhhDPF7g",
-        "game_link": "https://games.cdn.famobi.com/html5games/c/crowd-run-3d/v040/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=28ab613b-9f40-4ab7-8f09-aa19f32e3660&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=784&original_ref=https%3A%2F%2Fhtml5games.com%2F"
+        "game_link": "https://www.tiava.com/category/hot-mom"
       },
     {
         "qureka": "0",
