@@ -1,0 +1,237 @@
+{
+        "status_code": "200",
+        "status_message": "success",
+        "data": [
+        {
+        "qureka" : "0",
+        "id": "1",
+        "game_name": "Traffic Tom",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/TrafficTomTeaser.jpg",
+        "game_link": "https://893.win.predchamp.com"
+        },
+        {
+        "qureka" : "0",
+        "id": "2",
+        "game_name": "Moto X3M Pool Party",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/MotoX3mPoolPartyTeaser.jpg",
+        "game_link": "https://893.win.predchamp.com"
+        },
+        {
+        "qureka" : "1",
+        "id": "100",
+        "game_name": "Tech Skill",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Anand/1.png",
+        "game_link": ""
+        },
+        {
+        "qureka" : "0",
+        "id": "3",
+        "game_name": "Adventure Drivers",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/AdventureDriversTeaser.jpg",
+        "game_link": "https://893.win.predchamp.com"
+        },
+        {
+        "qureka" : "0",
+        "id": "4",
+        "game_name": "Moto X3M",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/MotoX3mTeaser.jpg",
+        "game_link": "https://893.win.predchamp.com"
+        },
+        {
+        "qureka" : "0",
+        "id": "5",
+        "game_name": "High Hills",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/HighHillsTeaser.jpg",
+        "game_link": "https://893.win.predchamp.com"
+        },
+        {
+        "qureka" : "0",
+        "id": "6",
+        "game_name": "Drag Racing Club",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/DragRacingClubTeaser.jpg",
+        "game_link": "https://893.win.predchamp.com"
+        },
+		{
+        "qureka" : "1",
+        "id": "100",
+        "game_name": "Mega Quiz",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Anand/2.jpg",
+        "game_link": ""
+        },
+        {
+        "qureka" : "0",
+        "id": "7",
+        "game_name": "Race Right",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/RaceRightTeaser.jpg",
+        "game_link": "https://893.win.predchamp.com"
+        },
+        {
+        "qureka" : "0",
+        "id": "8",
+        "game_name": "Biker Street",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/BikerStreetTeaser.jpg",
+        "game_link": "https://893.win.predchamp.com"
+        },
+        {
+        "qureka" : "0",
+        "id": "9",
+        "game_name": "Highway Rider Extreme",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/HighwayRiderExtremeTeaser.jpg",
+        "game_link": "https://893.win.predchamp.com"
+        },
+		{
+        "qureka" : "1",
+        "id": "100",
+        "game_name": "Tech Skills",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Anand/3.jpg",
+        "game_link": ""
+        },
+        {
+        "qureka" : "0",
+        "id": "10",
+        "game_name": "Moto Fury",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/MotoFuryTeaser.jpg",
+        "game_link": "https://893.win.predchamp.com"
+        },
+        {
+        "qureka" : "0",
+        "id": "11",
+        "game_name": "Drift Cup Racing",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/DriftCupRacingTeaser.jpg",
+        "game_link": "https://893.win.predchamp.com"
+        },
+        {
+        "qureka" : "0",
+        "id": "12",
+        "game_name": "Racing Monster Trucks",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/RacingMonsterTrucksTeaser.jpg",
+        "game_link": "https://893.win.predchamp.com"
+        },
+		{
+        "qureka" : "1",
+        "id": "100",
+        "game_name": "Tech Skill",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Anand/4.jpg",
+        "game_link": ""
+        },
+        {
+        "qureka" : "0",
+        "id": "13",
+        "game_name": "Racing Cars",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/RacingCarsTeaser.jpg",
+        "game_link": "https://893.win.predchamp.com"
+        },
+        {
+        "qureka" : "0",
+        "id": "14",
+        "game_name": "Truck Trials",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/TruckTrialsTeaser.jpg",
+        "game_link": "https://893.win.predchamp.com"
+        },
+        {
+        "qureka" : "0",
+        "id": "15",
+        "game_name": "Thug Racer",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/ThugRacerTeaser.jpg",
+        "game_link": "https://893.win.predchamp.com"
+        },
+		{
+        "qureka" : "1",
+        "id": "100",
+        "game_name": "Mega Quiz",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Anand/5.png",
+        "game_link": ""
+        },
+        {
+        "qureka" : "0",
+        "id": "16",
+        "game_name": "Endless Truck",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/EndlessTruckTeaser.jpg",
+        "game_link": "https://893.win.predchamp.com"
+        },
+        {
+        "qureka" : "0",
+        "id": "17",
+        "game_name": "Rival Rush",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/RivalRushTeaser.jpg",
+        "game_link": "https://893.win.predchamp.com"
+        },
+        {
+        "qureka" : "0",
+        "id": "18",
+        "game_name": "Street Pursuit",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/StreetPursuit_Teaser.jpg",
+        "game_link": "https://893.win.predchamp.com"
+        },
+		{
+        "qureka" : "1",
+        "id": "100",
+        "game_name": "GK Quiz",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Anand/6.png",
+        "game_link": ""
+        },
+        {
+        "qureka" : "0",
+        "id": "19",
+        "game_name": "StreetRace Fury",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/StreetRaceFuryTeaser.jpg",
+        "game_link": "https://893.win.predchamp.com"
+        },
+        {
+        "qureka" : "0",
+        "id": "20",
+        "game_name": "2Cars",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/2CarsTeaser.jpg",
+        "game_link": "https://893.win.predchamp.com"
+        },
+        {
+        "qureka" : "0",
+        "id": "21",
+        "game_name": "Don't Crash",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/DontCrashTeaser.jpg",
+        "game_link": "https://893.win.predchamp.com"
+        },
+		{
+        "qureka" : "1",
+        "id": "100",
+        "game_name": "Play Quiz",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Anand/7.png",
+        "game_link": ""
+        },
+        {
+        "qureka" : "0",
+        "id": "22",
+        "game_name": "Speed Maniac",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/SpeedManiacTeaser.jpg",
+        "game_link": "https://893.win.predchamp.com"
+        },
+        {
+        "qureka" : "0",
+        "id": "23",
+        "game_name": "Turbotastic",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/TurbotasticTeaser.jpg",
+        "game_link": "https://893.win.predchamp.com"
+        },
+        {
+        "qureka" : "0",
+        "id": "24",
+        "game_name": "Burnin Rubber",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/BurninRubber_Teaser.jpg",
+        "game_link": "https://893.win.predchamp.com"
+        },
+		{
+        "qureka" : "1",
+        "id": "100",
+        "game_name": "IPL Quiz",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Anand/8.png",
+        "game_link": ""
+        },
+        {
+        "qureka" : "0",
+        "id": "25",
+        "game_name": "Speed Club Nitro",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/SprintClubNitroTeaser.jpeg",
+        "game_link": "https://893.win.predchamp.com"
+        }
+        ]
+        }

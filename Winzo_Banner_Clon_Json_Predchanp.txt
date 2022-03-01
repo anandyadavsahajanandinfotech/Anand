@@ -1,0 +1,76 @@
+{
+  "status_code": "200",
+  "status_message": "success",
+  "data": [
+    {
+        "qureka": "0",
+        "id": "0",
+        "game_name": "Join Clash 3D",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/joincash3d.png",
+        "game_link": "https://893.win.predchamp.com/intro"
+      },
+    {
+        "qureka": "0",
+        "id": "0",
+        "game_name": "Snack Game",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/snackgame.png",
+        "game_link": "https://893.win.predchamp.com/intro"
+      },
+    {
+      "qureka": "0",
+      "id": "0",
+      "game_name": "Om Nom Run",
+      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/om-nom-run-ios-android-featured.jpeg",
+      "game_link": "https://893.win.predchamp.com/intro"
+    },
+ {
+      "qureka": "0",
+      "id": "0",
+      "game_name": "Speed Car",
+      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/speed_car.jpg",
+      "game_link": "https://893.win.predchamp.com/intro"
+    },
+    {
+      "qureka": "0",
+      "id": "1",
+      "game_name": "Stair Race 3D",
+      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/run3d.png",
+      "game_link": "https://893.win.predchamp.com/intro"
+    },
+    {
+      "qureka": "0",
+      "id": "2",
+      "game_name": "Bus Parking 3D",
+      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/bus3dparking.png",
+      "game_link": "https://893.win.predchamp.com/intro"
+    },
+     {
+        "qureka": "0",
+        "id": "0",
+        "game_name": "Join Clash 3D",
+        "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/joincash3d.png",
+        "game_link": "https://893.win.predchamp.com/intro"
+      },
+    {
+      "qureka": "0",
+      "id": "1",
+      "game_name": "Adventure Drivers",
+      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/adventuredrivers.png",
+      "game_link": "https://893.win.predchamp.com/intro"
+    },
+    {
+      "qureka": "0",
+      "id": "4",
+      "game_name": "Traffic Rider",
+      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/rider.jpeg",
+      "game_link": "https://893.win.predchamp.com/intro"
+    },
+    {
+      "qureka": "0",
+      "id": "5",
+      "game_name": "Subway Surfers",
+      "game_image": "https://anandyadavsahajanandinfotech.github.io/Winzo-New-Games-Images/subway.png",
+      "game_link": "https://893.win.predchamp.com/intro"
+    }
+  ]
+}
